@@ -3,3 +3,6 @@ This project involved building an interactive web app, using Shiny for Python, t
 To see a live instance of the app, click the link below:
 
 https://drooney.shinyapps.io/housepricesvisualisation/
+
+
+app.py uses two files that are created by aggregate.py - summary.csv and OutcodeCoordinates.json
